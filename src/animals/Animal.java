@@ -13,8 +13,7 @@ import food.*;
 import mobility.*;
 /**
  *
- * @author tomer handali 206751489
- *          shaked asido 315853150
+ * @author shaked asido
  *
  */
 public abstract class Animal extends Mobile implements IEdible,IDrawable,IAnimalBehavior{

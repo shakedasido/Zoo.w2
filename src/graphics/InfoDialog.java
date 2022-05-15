@@ -4,6 +4,10 @@ import java.awt.*;
 import java.util.ArrayList;
 import javax.swing.*;
 
+
+/***
+ * @author shaked asido
+ */
 public class InfoDialog extends JDialog{
 
     private JScrollPane scrollPane = null;

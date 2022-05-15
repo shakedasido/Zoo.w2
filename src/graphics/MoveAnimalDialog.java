@@ -6,6 +6,9 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.util.ArrayList;
 
+/***
+ * @author shaked aisdo
+ */
 
 public class MoveAnimalDialog extends JDialog implements ItemListener, ActionListener {
 

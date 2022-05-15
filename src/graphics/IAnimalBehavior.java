@@ -1,5 +1,8 @@
 package graphics;
 
+/***
+ * @author shaked asido
+ */
 public interface IAnimalBehavior {
 
     String getAnimalName();

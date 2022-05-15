@@ -1,7 +1,10 @@
 package graphics;
 import java.awt.*;
-
 import javax.swing.*;
+
+/***
+ * @author shaked asido
+ */
 
 public class ZooFrame extends JFrame {
 

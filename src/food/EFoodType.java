@@ -1,7 +1,7 @@
 package food;
 /**
  *
- * @author tomer handali 206751489
+ * @author tomer handali
  *
  */
 public enum EFoodType {MEAT,NOTFOOD,VEGETABLE}

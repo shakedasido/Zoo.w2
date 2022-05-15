@@ -14,7 +14,7 @@ import mobility.Point;
 
 /**
  *
- * @author tomer handali 206751489
+ * @author tomer handali
  * This class is intended to create a meat object to add to the screen with feed option
  */
 public class Meat implements IEdible, Ilocatable, IDrawable{

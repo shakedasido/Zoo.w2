@@ -2,7 +2,7 @@ package mobility;
 
 /**
  *
- * @author tomer handali 206751489 and adi godosi 316413780
+ * @author shaked asido
  *
  */
 public interface Ilocatable {

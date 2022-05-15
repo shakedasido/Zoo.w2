@@ -7,7 +7,7 @@ import mobility.*;
 
 /**
  *
- * @author tomer handali 206751489
+ * @author shaked asido
  *
  */
 public class Lion extends Animal{

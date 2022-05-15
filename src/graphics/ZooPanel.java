@@ -15,6 +15,9 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 
+/***
+ * @author shaked asido
+ */
 
 public class ZooPanel extends JPanel{
     private BufferedImage img= null;
@@ -134,6 +137,7 @@ public class ZooPanel extends JPanel{
             animalArrayList.clear();
             foodType = EFoodType.NOTFOOD;
             plant = null;
+            meat = null;
             totalEatingAmount = 0;
             repaint();
         });

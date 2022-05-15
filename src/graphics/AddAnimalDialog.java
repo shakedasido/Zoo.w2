@@ -1,12 +1,12 @@
 
 package graphics;
-import animals.Animal;
-
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
 
-
+/***
+ * @author shaked asido
+ */
 public class AddAnimalDialog extends JDialog implements ItemListener, ActionListener {
 
     private final String[] animals = {"Elephant","Lion","Giraffe","Turtle","Bear"};

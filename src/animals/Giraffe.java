@@ -6,7 +6,7 @@ import diet.*;
 import mobility.*;
 /**
  *
- * @author tomer handali 206751489, shaked asido
+ * @author shaked asido
  *
  *
  */
